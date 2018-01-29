@@ -1,0 +1,111 @@
+body{
+	max-width: 1300px;
+	margin:0 auto;
+}
+.father{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.a{
+	height: 100px;
+	width: 100px;
+	background-color: black;
+
+}
+.b{
+	height: 100px;
+	width: 100px;
+	color: red;
+	display: flex;
+	align-items:center;
+}
+.c{
+	height:100px;
+	width:100px;
+	background-color: black;
+}
+.mother{
+	display: flex;
+	justify-content: space-between;
+	
+}
+.e{
+	height: 100px;
+	width: 100%;
+	background-color: grey;
+}
+.d{
+	display: flex;
+	min-width: 100px;
+	justify-content: center;
+
+}
+.f{
+	display: flex;
+	min-width:100px;
+	justify-content: center;
+}
+.brother{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+.h{
+	display:flex;
+	justify-content: center;
+	}
+.k{
+	height: 100px;
+	width:100px;
+	background-color: lightblue;
+}
+.g{
+	min-width: 100px;
+}
+.sister{
+display: flex;
+justify-content:space-between;
+
+}
+
+
+.l{
+	height:100px;
+	width:100px;
+	background-color: blue;
+}
+.m{
+	height:100px;
+	width:100px;
+	background-color: red;
+}
+.n{
+	height:100px;
+	width:100px;
+	background-color: yellow;
+}
+.bv{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.o{
+	height:100px;
+	width:100px;
+	background-color: green;
+}
+.p{
+	height:100px;
+	width:100px;
+	background-color: blue;
+}
+.vc{
+	display: flex;
+	align-items: flex-end;
+}
+.q{
+	height:100px;
+	width:100px;
+	background-color: grey;
+}
